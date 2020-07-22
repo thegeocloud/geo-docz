@@ -1,7 +1,7 @@
 GeoDocz API Readme
 
 ## OVERVIEW ##
-- GeoDocz as a simple backend application that helps locate spatial documents on a map. Document metadata can be added to a the database which is converted to a qr code. The qr code can be inserted into documents and later scanned to get information like lat/lon, desciption, name, and its unique id. It's easier to find documents via a map rather than the traditional folder structure.
+- GeoDocz as a simple backend application that helps locate spatial documents on a map. Document metadata can be added to a database which is converted to a qr code. The qr code can be inserted into documents and later scanned to get information like lat/lon, desciption, name, and its unique id. It's easier to find documents via a map rather than the traditional folder structure.
 - Projects organize documents where multiple documents can be related to a project. Currently project ids must be added to posted documents manually. Future realeases will automate this. 
 
 ## FUTURE WORK ##
